@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Lista de Compra</string>
+    <string name="Bnt_Salvar">Salvar</string>
+    <string name="EditText_Produto">Nome do Produto</string>
+    <string name="EditText_Marca">Nome da Marca</string>
 </resources>
